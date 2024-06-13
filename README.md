@@ -1,75 +1,80 @@
-# Hey, ich bin BastiGame <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+<a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
+</p>
 
-## 📌 Über mich:
-- 📍 Ich komme aus Deutschland (Bayern)
-- 📝 Ich Programmiere gerne Discord Bots in py-cord
-- 📷 Ich [streame](https://twitch.tv/bastigametv) gerne
-- ⭐ Besitzte einen [öffentlichen Bot](https://discord.com/api/oauth2/authorize?client_id=1169681232532099112&permissions=430302428277&scope=bot%20applications.commands)
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Splayfer!</h1>
+<h3 align="center">I'm Content Creator & Developer</h3>
 
-## 🛠️ Programmiersprachen und Tools:
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Pycord-Development/pycord)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/sqlite/sqlite)
+<br>
 
 
-## 📷 Socials:  
-[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)]([https://discord.com/users/203208036053942272](https://discord.gg/Pnw5vEjRZ5))
-[![](https://img.shields.io/twitch/status/silbergecko_tv?style=for-the-badge&logo=twitch&logoColor=white&color=purple)](https://twitch.tv/bastigametv)
+<p align="center">
+    <img src="https://img.shields.io/github/followers/splayfery?label=Github&logo=github&style=flat-square" alt="Splayfery">
+        <a href="https://youtube.com/splayfer"><img src="https://img.shields.io/youtube/channel/views/UCGvcLOmPKMv4JstBZezFkHA?label=YouTube&logo=YouTube&style=flat-square" alt="Splayfer" width="100" height="20"/></a>
+    <a href="https://discord.gg/splayfer"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Splayfer#9999" width="85" height="20"/></a>
+    <a href="https://github.com/Splayfery?tab=followers"><img src="https://img.shields.io/github/followers/Splayfery?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
-## ⭐ Projekte:
-[![Flash-Global](https://img.shields.io/badge/Flash_Global-00A966?style=for-the-badge&logo=wechat&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1169681232532099112&permissions=430302428277&scope=bot%20applications.commands)
-[![Flash-Global](https://img.shields.io/badge/FlashBot-00A966?style=for-the-badge&logo=wechat&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1111374314340626433&permissions=1497266007286&scope=bot%20applications.commands)
 
-## 📈 Stats:
+
+<br>
+
+## 🔎〣 About Me
+
+- 🌀│ My Discord Server: **[Legendary Home](https://discord.gg/legendaryhome)**
+
+- 🌱│ I’m currently learning **Python / Bash / MySQL / HTML.**
+
+- 🎥│ I also have a **[YouTube](https://youtube.com/splayfer)** channel with discord content & tutorials
+
+## 🚀〣 Languages and Tools:
+
+![](https://skillicons.dev/icons?i=java,github,mysql,linux,bash,git,discord,bots)
+
+<br/>
+
+## 📈〣 Github Stats
+
+📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-**Ich bin ein Frühaufsteher 🐤** 
 
-```text
-🌞 Morgens                211 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-🌆 Mittags                457 commits         ████████████░░░░░░░░░░░░░   46.59 % 
-🌃 Abends                 310 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌙 Nachts                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
-📅 **Ich bin am Sonntag am produktivsten** 
-
-```text
-Montag                   141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Dienstag                 45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Mittwoch                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Donnerstag               152 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Freitag                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Samstag                  182 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Sonntag                  231 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+```txt
+Java             4 hrs 12 mins   ████████████████████████░   96.22 %
+GitIgnore file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
-
-📊 **Diese Woche habe ich meine Zeit damit verbracht** 
-
-```text
-🕑︎ Zeitzone: Europe/Berlin
-
-💬 Programmiersprachen: 
-Python                   8 hrs 47 mins       █████████████████████████   99.29 % 
-IDEA_MODULE              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
-**Ich code am meisten in Python** 
-
-```text
-Python                   18 repos            █████████████████████████   100.00 % 
-```
-
-
-
-
- Last Updated on 13/06/2024 00:43:28 UTC
 <!--END_SECTION:waka-->
 
-## 🔎 Discord Profiel:
-<a href="https://discord.com/users/1018150165489668227"><img src="https://lanyard.cnrad.dev/api/1018150165489668227"><p/>
+  <br/>
+    <p float="above">
+    <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Splayfery&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+  <a href="https://github.com/Splayfery/github-readme-stats"><img alt="Splayfers's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splayfery&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+    <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
 
 <p align="right">
-  <img align="center" src="https://komarev.com/ghpvc/?username=bastigamedc&label=Profile%20views&color=0e75b6&style=flat" alt="bastigamedc"/>
+
+<a href="https://github.com/Splayfery/github-readme-activity-graph"><img alt="Splayfers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Splayfery&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+</p>
+
+<br/>
+<br/>
+
+## Check out my socials:
+<p align="left">
+
+<a href = "https://youtube.com/splayfer"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://twitch.tv/splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
+<a href = "https://twitter.com/Splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.reddit.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
+<a href = "https://linktr.ee/Splayfer"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
+
 </p>
