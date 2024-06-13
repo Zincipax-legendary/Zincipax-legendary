@@ -33,18 +33,7 @@
 
 <br/>
 
-## 📈〣 Github Stats
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-Java             4 hrs 12 mins   ████████████████████████░   96.22 %
-GitIgnore file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-```
-
-<!--END_SECTION:waka-->
 
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -56,11 +45,4 @@ XML              2 mins          ▒░░░░░░░░░░░░░░�
 
 
 
-<a href = "https://youtube.com/splayfer"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://twitch.tv/splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
-<a href = "https://twitter.com/Splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.reddit.com/Splayfer/"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>
-<a href = "https://linktr.ee/Splayfer"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
-</p>
