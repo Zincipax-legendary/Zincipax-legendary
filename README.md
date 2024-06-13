@@ -60,15 +60,7 @@ XML              2 mins          ▒░░░░░░░░░░░░░░�
 
 <p align="right">
 
-<a href="https://github.com/Splayfery/github-readme-activity-graph"><img alt="Splayfers's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Splayfery&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-</p>
-
-<br/>
-<br/>
-
-## Check out my socials:
-<p align="left">
 
 <a href = "https://youtube.com/splayfer"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://twitch.tv/splayfer"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
